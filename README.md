@@ -1,5 +1,3 @@
-```html
-<!DOCTYPE html>
 <html lang="id">
 <head>
 <meta charset="UTF-8">
@@ -185,6 +183,7 @@ melihat pemandangan baru, dan merasakan kebebasan di jalan.
 
 <div class="card">
 <p>Email : sugytozuro90@gmail.com</p>
+<p>No.Telp : +62 857 2400 0073</p> 
 </div>
 
 </div>
@@ -197,4 +196,4 @@ melihat pemandangan baru, dan merasakan kebebasan di jalan.
 
 </body>
 </html>
-```
+
